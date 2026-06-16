@@ -1,0 +1,7 @@
+data/raw/
+*.xlsx
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+Thumbs.db

@@ -1,0 +1,7 @@
+Segment,total_customers,avg_revenue,avg_days_since_purchase,avg_orders
+Champion,1196,4971.17,14.0,9.6
+"Loyal Customer",880,1618.07,38.2,3.5
+"At Risk",526,1457.62,125.9,3.8
+"Lost Customer",1210,480.40,220.7,1.2
+"Needs Attention",293,401.08,52.9,1.0
+"New Customer",233,328.23,19.2,1.0
