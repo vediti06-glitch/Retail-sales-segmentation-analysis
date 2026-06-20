@@ -32,6 +32,17 @@ and K-Means Clustering (Python) to support marketing decisions.
 - Validation: Elbow Method + Silhouette Score
 - Output: 4 segments — Champions, Loyal, New, Lost Customers
 
+## Dashboard Preview
+
+### Page 1 — Sales Overview
+![Sales Overview](notebooks/images/dashboard_page1_sales_overview.png)
+
+### Page 2 — Customer Segmentation
+![Customer Segments](notebooks/images/dashboard_page2_customer_segments.png)
+
+### Page 3 — Time & Product Analysis
+![Time Analysis](notebooks/images/dashboard_page3_time_analysis.png)
+
 ## Project Structure
 | Folder | Contents |
 |:-------|:---------|
